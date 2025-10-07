@@ -35,6 +35,7 @@ header {
   width: 100%;
   height: 120px;
   border-width: 2px;
+  border-bottom: 2px solid black;
   background: #5ed3f4;
 }
 
@@ -59,5 +60,6 @@ header {
   height: 150px;
   color: rgb(245, 7, 7);
   background-color:#5ed3f4;
+  border-bottom: 2px solid black;
   padding: 40px;
 }
